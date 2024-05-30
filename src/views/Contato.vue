@@ -5,7 +5,7 @@ import MainLayout from './../layout/MainLayout.vue'
 <template>
     <MainLayout>
         <div class="pl-12 md:pl-0 align-middle flex justify-center">
-            <div class="w-11/12   md:w-2/6 md:m-auto z-0  h-auto text-left flex justify-center flex-col mx-auto mt-20 mb-auto">
+            <div class="w-11/12   md:w-2/6 md:m-auto z-0  h-auto text-left flex justify-center flex-col mx-auto mt-5 mb-auto">
                 <h2 class="text-3xl text-slate-800">Formulário de Contato</h2>
 
                 <form class="mt-10" action="enviar_email.php" method="post">
