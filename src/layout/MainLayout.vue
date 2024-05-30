@@ -4,7 +4,7 @@ import Menu from '../components/Menu.vue'
 <template>
     <main class="w-screen flex flex-row">
         <Menu />
-        <div class="w-full">
+        <div class="w-full h-full mb-20">
             <slot></slot>
         </div>
 

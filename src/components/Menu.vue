@@ -8,7 +8,7 @@ x.value = !x.value
 }
 </script>
 <template>
-  <div :class="{ 'w-4/6 md:w-3/12 z-10 bg-gray-900 transition-all duration-300 flex flex-col': x === true, 'w-12 z-10 bg-gray-800 border-none transition-all duration-300': x === false }" class="h-full fixed top-0 left-0">
+  <div :class="{ 'w-4/6 md:w-3/12 z-10 bg-gray-900 transition-all duration-300 flex flex-col': x === true, 'w-12 z-10 bg-gray-800 border-none transition-all duration-300': x === false }" class="h-screen fixed top-0 left-0">
     <button class="text-gray-50 w-12 h-12">
         <label class="hamburger">
         <input @click="teste()" type="checkbox">
