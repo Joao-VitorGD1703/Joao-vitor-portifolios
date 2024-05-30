@@ -5,7 +5,7 @@ import MainLayout from './../layout/MainLayout.vue'
 <template>
     <MainLayout>
         <div class="pl-12 md:pl-0 align-middle flex justify-center">
-            <div class="w-11/12   md:w-4/6 md:mx-auto z-0  h-auto text-left flex justify-center flex-col md:flex-row mx-auto mt-20 mb-auto">
+            <div class="w-11/12   md:w-4/6 md:mx-auto z-0  h-auto text-left flex justify-center flex-col md:flex-row  mt-20 mb-auto">
               
                 <div class="bg-white border-b-2 shadow-md mr-5	 border-b-neutral-400   p-6 mb-10">
                     <h3 class="text-xl text-slate-800 font-bold mb-2">Estagiário de Desenvolvimento na Empresa XYZ</h3>
